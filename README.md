@@ -88,6 +88,7 @@ The inverse kinematics was solved using a hybrid approach:
 ## Results
 - **Visualization**:
   - Joint move and Cartesian move trajectories.
+    
     <img src="https://github.com/user-attachments/assets/bcf24b76-983c-4f02-b30d-a4f93cdfc510" alt="Joint Move - Trajectory" width="600"/>
     <img src="https://github.com/user-attachments/assets/8edb2d12-97fd-4b2a-a887-dcae141fd3da" alt="Cartesian Move - Trajectory" width="600"/>
 
