@@ -88,16 +88,16 @@ The inverse kinematics was solved using a hybrid approach:
 ## Results
 - **Visualization**:
   - Joint move and Cartesian move trajectories.
-    <img src="https://github.com/user-attachments/assets/bcf24b76-983c-4f02-b30d-a4f93cdfc510" alt="Joint Move - Trajectory" width="500"/>
-    <img src="https://github.com/user-attachments/assets/8edb2d12-97fd-4b2a-a887-dcae141fd3da" alt="Cartesian Move - Trajectory" width="500"/>
+    <img src="https://github.com/user-attachments/assets/bcf24b76-983c-4f02-b30d-a4f93cdfc510" alt="Joint Move - Trajectory" width="600"/>
+    <img src="https://github.com/user-attachments/assets/8edb2d12-97fd-4b2a-a887-dcae141fd3da" alt="Cartesian Move - Trajectory" width="600"/>
 
   - Motion profiles for joint angles and end-effector.
-    <img src="https://github.com/user-attachments/assets/9e8376d7-3e09-4ce0-bd09-1d7e8714a575" alt="Joint Move - Angle" width="500"/>
-    <img src="https://github.com/user-attachments/assets/289d4d5f-2a81-4563-840c-23b63861337c" alt="Joint Move - Angular Acceleration" width="500"/>
-    <img src="https://github.com/user-attachments/assets/2170ddbc-1d28-483e-8ffb-9b265df5d816" alt="Joint Move - Angular Velocity" width="500"/>
-    <img src="https://github.com/user-attachments/assets/08b801f6-7666-43a9-b2f2-9dd204ebe36b" alt="Cartesian Move - Position" width="500"/>
-    <img src="https://github.com/user-attachments/assets/602002a3-fda5-494d-9b23-79a305eaa545" alt="Cartesian Move - Velocity" width="500"/>
-    <img src="https://github.com/user-attachments/assets/79e48797-66bf-47a6-ba4f-e104a60086f4" alt="Cartesian Move - Acceleration" width="500"/>
+    <img src="https://github.com/user-attachments/assets/9e8376d7-3e09-4ce0-bd09-1d7e8714a575" alt="Joint Move - Angle" width="600"/>
+    <img src="https://github.com/user-attachments/assets/289d4d5f-2a81-4563-840c-23b63861337c" alt="Joint Move - Angular Acceleration" width="600"/>
+    <img src="https://github.com/user-attachments/assets/2170ddbc-1d28-483e-8ffb-9b265df5d816" alt="Joint Move - Angular Velocity" width="600"/>
+    <img src="https://github.com/user-attachments/assets/08b801f6-7666-43a9-b2f2-9dd204ebe36b" alt="Cartesian Move - Position" width="600"/>
+    <img src="https://github.com/user-attachments/assets/602002a3-fda5-494d-9b23-79a305eaa545" alt="Cartesian Move - Velocity" width="600"/>
+    <img src="https://github.com/user-attachments/assets/79e48797-66bf-47a6-ba4f-e104a60086f4" alt="Cartesian Move - Acceleration" width="600"/>
 
 
 
