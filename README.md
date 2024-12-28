@@ -1,6 +1,6 @@
 # Path Planning for Mitsubishi RV-M2 Robot Manipulator
 
-This repository contains the implementation of path planning for the **Mitsubishi RV-M2** six-joint robot manipulator. The implementation includes **joint move** and **Cartesian move**, using custom forward and inverse kinematics.Additionally, the project explores the variations in key parameters such as six-axis variables, speed, and acceleration.
+This repository contains the implementation of path planning for the **Mitsubishi RV-M2** six-joint robot manipulator. The implementation includes **joint move** and **Cartesian move**, using custom forward and inverse kinematics. Additionally, the project explores the variations in key parameters such as six-axis variables, speed, and acceleration.
 
 ## Project Overview
 
