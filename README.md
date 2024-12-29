@@ -109,3 +109,7 @@ The inverse kinematics was solved using a hybrid approach:
 - Libraries:
   - `numpy`
   - `matplotlib`
+---
+
+## License
+This project is released under the MIT License.
